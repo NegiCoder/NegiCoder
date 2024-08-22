@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @NegiCoder
+- 👀 I’m interested in software development, competitive coding, and exploring new technologies.
+- 🌱 I’m currently learning full-stack development, including Java, C++, and database management.
+- 💞️ I’m looking to collaborate on open-source projects and innovative tech solutions.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: When I'm not coding, I love playing football and capturing moments through photography.
