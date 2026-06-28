@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  📍 Dehradun, India · 🎓 Graphic Era Hill University · 📞 +91 9105047822
+  📍 Dehradun, India · 🎓 Graphic Era Hill University
 </p>
 
 ---
@@ -101,35 +101,11 @@ while (learning) {
 
 ---
 
-## Education
-
-| Year | Degree / Exam | Institute | Score |
-| --- | --- | --- | --- |
-| 2026 | B.Tech (CSE) | Graphic Era Hill University, Dehradun | 7.5 CGPA |
-| 2022 | Class XII (CBSE) | Army Public School | 72% |
-| 2020 | Class X (CBSE) | Kendriya Vidyalaya | 86% |
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NegiCoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NegiCoder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NegiCoder&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ## Let's Connect
 
 I'm open to **full-time roles**, **internships**, and **collaborations** in backend engineering, full-stack development, and distributed systems.
 
 <p align="center">
-  <a href="https://anshulnegi.dev">🌐 Portfolio</a> ·
   <a href="https://www.linkedin.com/in/anshul-negi-55aa14345/">💼 LinkedIn</a> ·
   <a href="mailto:anshulnegi0001@gmail.com">📧 Email</a> ·
   <a href="https://github.com/NegiCoder">🐙 GitHub</a>
