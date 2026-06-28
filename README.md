@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anshul Singh Negi 👋</h1>
+<h1 align="center">Hi, I'm Anshul Negi 👋</h1>
 
 <p align="center">
   <strong>Full-Stack Engineer · B.Tech CSE (2026)</strong><br/>
